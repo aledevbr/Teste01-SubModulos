@@ -7,6 +7,7 @@ namespace Teste01_SubModulos
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Passo 2");
         }
     }
 }
